@@ -1,7 +1,9 @@
 # tools
 Collections of development tools and containers for me to use in my projects
 
-## Databases / Storage
+## Containers
+
+### Databases / Storage
 - [PostgreSQL](./databases/postgres/)
   - Relational database (SQL)
 - [MongoDB](./databases/mongodb/)
@@ -11,12 +13,13 @@ Collections of development tools and containers for me to use in my projects
 - [Minio](./databases/minio/)
   - Object Storage (S3 compatible)
 
-## Messaging
+### Messaging
 - [RabbitMQ](./messaging/rabbitmq/)
   - Message Broker
 - [Kafka](./messaging/kafka/)
   - Distributed Streaming Platform (pub/sub)
 
-## Monitoring
+### Monitoring
 - [Prometheus + Grafana](./monitoring/prometheus-grafana/)
   - Monitoring and Observability (metrics, alerts, dashboards)
+
